@@ -1,0 +1,74 @@
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe.config
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.pdb
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csprojAssemblyReference.cache
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Properties.Resources.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.GenerateResource.cache
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.exe
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.FormUsers.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.FormHome.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDonors.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormLogin.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormSplash.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.ChoseTheUserType.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDonorsSginUp.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormHomeDonor.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormTheLast.resources
+C:\Users\AHMED\source\repos\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDownloadReports.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe.config
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.pdb
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csprojAssemblyReference.cache
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.ChoseTheUserType.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDonors.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDonorsSginUp.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDownloadReports.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormHomeDonor.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormLogin.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormSplash.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormTheLast.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.FormUsers.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.FormHome.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Properties.Resources.resources
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.GenerateResource.cache
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.exe
+C:\Users\AHMED\Desktop\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe.config
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.pdb
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csprojAssemblyReference.cache
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.ChoseTheUserType.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDonors.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDonorsSginUp.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDownloadReports.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormHomeDonor.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormLogin.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormSplash.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormTheLast.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.FormUsers.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.FormHome.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Properties.Resources.resources
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.GenerateResource.cache
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.CoreCompileInputs.cache
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.exe
+D:\ملفات\مواد جامعية\سنة تانية\فصل اول\مشروع\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe.config
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.pdb
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.ChoseTheUserType.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDonors.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDonorsSginUp.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormDownloadReports.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormHomeDonor.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormLogin.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormSplash.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.FormTheLast.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.FormUsers.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.FormHome.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Properties.Resources.resources
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.GenerateResource.cache
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.exe
+C:\Users\slman\Downloads\مشاريع\BBMS Blood Bank Management System by c#\blood bank management system\Project-Code-Files\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
