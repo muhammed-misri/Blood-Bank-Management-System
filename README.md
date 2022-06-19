@@ -1,2 +1,2 @@
 # Blood-Bank-Management-System
-Console Automation App
+C# Console Automation App
